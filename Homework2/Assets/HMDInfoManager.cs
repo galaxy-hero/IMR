@@ -23,7 +23,7 @@ public class HMDInfoManager : MonoBehaviour
         else
         {
             Debug.Log("We have a headset " + XRSettings.loadedDeviceName);
-        }
+        }   
     }
 
     // Update is called once per frame
